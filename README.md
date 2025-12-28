@@ -69,6 +69,7 @@ The funnel is built using conditional aggregation to track user progression acro
 ![User Funnel Visualization](screenshots/funnel_visual.png)
 
 
+
 ## Key Conversion Rates:
 
 - Homepage → Signup: 66.67%
