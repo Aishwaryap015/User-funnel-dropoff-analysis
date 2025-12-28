@@ -1,0 +1,14 @@
+user_id,event,event_time,device,country,traffic_source
+1,homepage,2024-01-01,mobile,India,organic
+1,signup,2024-01-01,mobile,India,organic
+1,activation,2024-01-02,mobile,India,organic
+1,retention,2024-01-10,mobile,India,organic
+2,homepage,2024-01-01,desktop,USA,ads
+2,signup,2024-01-01,desktop,USA,ads
+3,homepage,2024-01-01,mobile,India,organic
+4,homepage,2024-01-02,desktop,UK,referral
+4,signup,2024-01-02,desktop,UK,referral
+5,homepage,2024-01-02,mobile,India,ads
+5,signup,2024-01-02,mobile,India,ads
+5,activation,2024-01-03,mobile,India,ads
+6,homepage,2024-01-03,desktop,USA,organic

@@ -1,0 +1,5 @@
+-- Funnel Metrics Output
+
+total_users  homepage_users  signup_users  activated_users  retained_users  homepage_to_signup_pct  signup_to_activation_pct  activation_to_retention_pct
+-----------  --------------  ------------  ---------------  --------------  ----------------------  ------------------------  ---------------------------
+7            6               4             2                1               66.67                   50.0                      50.0                       
